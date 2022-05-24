@@ -1,2 +1,2 @@
 # SAMPLE-REPOSITORY
-hey,this is sniya
+hey, we have edited the README file
